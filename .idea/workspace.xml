@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc0c8bf-5a73-4456-a7bd-03e8f653aa60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6_refleksia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6_1_String_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6_Massive_lust.java" afterDir="false" />
+    <list default="true" id="acc0c8bf-5a73-4456-a7bd-03e8f653aa60" name="Changes" comment="upd information">
+      <change afterPath="$PROJECT_DIR$/src/com/HomeWork/HW_6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lesson/six/Lesson_6_1_2_Method_integer_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Lesson/six/Massive_practika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Reviev/six/Edward/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Reviev/six/Edward/Reviev_6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_1_String_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lesson/six/Lesson_6_1_String_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_Massive_lust.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Lesson/six/Lesson_6_Massive_lust.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +44,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "/Users/michael/IdeaProjects/Lesson_6_refleksia/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Reviev_6_1">
+    <configuration name="HW_6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HomeWork.HW_6_1" />
+      <module name="Lesson_6_refleksia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lesson_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_6" />
       <module name="Lesson_6_refleksia" />
@@ -56,8 +64,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson_6_1_2_Method_integer_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lesson.six.Lesson_6_1_2_Method_integer_sum" />
+      <module name="Lesson_6_refleksia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Massive_practika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Lesson.six.Massive_practika" />
+      <module name="Lesson_6_refleksia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reviev_6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Reviev.six.Edward.Reviev_6_1" />
+      <module name="Lesson_6_refleksia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Reviev.six.Edward.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reviev_6_1" />
+        <item itemvalue="Application.HW_6_1" />
+        <item itemvalue="Application.Massive_practika" />
+        <item itemvalue="Application.Lesson_6_1_2_Method_integer_sum" />
         <item itemvalue="Application.Lesson_6" />
       </list>
     </recent_temporary>
@@ -71,6 +110,28 @@
       <option name="presentableId" value="Default" />
       <updated>1693329471576</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 6">
+      <option name="closed" value="true" />
+      <created>1693381779209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693381779209</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upd information">
+      <option name="closed" value="true" />
+      <created>1693381930834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693381930834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 6" />
+    <MESSAGE value="upd information" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd information" />
   </component>
 </project>

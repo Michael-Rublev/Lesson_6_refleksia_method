@@ -1,7 +1,9 @@
+package com.Lesson.six;
+
 public class Lesson_6_1_String_Method {
 
     //создаю пользовательский метод
-    public static void printText(String text) { //Внутри (параметры: String - тип, text - имя параметра)
+    public static void printText(String text) { //Внутри (параметр это String - тип, text - имя параметра)
         System.out.println(text);
     }
 
@@ -20,4 +22,5 @@ public class Lesson_6_1_String_Method {
         printText(s); //Строковый агрумент, который мы передаем в пользовательский ментод (строка 4)
 
     }
+
 }

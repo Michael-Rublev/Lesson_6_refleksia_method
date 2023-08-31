@@ -1,3 +1,5 @@
+package com.Lesson.six;
+
 import java.util.Arrays;
 
 public class Lesson_6_Massive_lust {
